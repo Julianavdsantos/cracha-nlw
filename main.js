@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'Julianavdsantos',
-  instagram: 'Juh_vdsantos',
+  instagram: '@Juh_vdsantos',
   facebook: 'juliana.vieira.7965'
 }
 
